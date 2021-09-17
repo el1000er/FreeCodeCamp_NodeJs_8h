@@ -1,0 +1,1 @@
+Here is the async result part 11-fs-async.js: Hello this is first text file,hello this si second text file
